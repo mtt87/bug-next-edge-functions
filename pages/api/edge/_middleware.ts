@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import { NextRequest, NextResponse } from "next/server";
 
 function middleware(req: NextRequest) {
